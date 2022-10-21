@@ -6,8 +6,8 @@ let array3 = [1, 2, 1, 2];
 let array4 = [0, -2, 5, 6];
 let array5 = [10,1,2,3,4];
 
-// console.log(resolveV2(array1)); // false
-// console.log(resolveV2(array2)); // false
-// console.log(resolveV2(array3)); // false
-// console.log(resolveV2(array4)); // true
+console.log(resolveV2(array1)); // false
+console.log(resolveV2(array2)); // false
+console.log(resolveV2(array3)); // false
+console.log(resolveV2(array4)); // true
 console.log(resolveV2(array5)); // true
